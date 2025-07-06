@@ -1,0 +1,5 @@
+﻿  DSA_Project.cpp
+C:\Users\hp\OneDrive\Desktop\Visual Studio\DSA_Project\DSA_Project\DSA_Project.cpp(78,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hp\OneDrive\Desktop\Visual Studio\DSA_Project\DSA_Project\DSA_Project.cpp(110,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hp\OneDrive\Desktop\Visual Studio\DSA_Project\DSA_Project\DSA_Project.cpp(197,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  DSA_Project.vcxproj -> C:\Users\hp\OneDrive\Desktop\Visual Studio\DSA_Project\x64\Debug\DSA_Project.exe
